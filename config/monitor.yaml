@@ -1,0 +1,12 @@
+dir: E:\go\src\kirin_go_combine\game\pochiko
+list:  # 监听的例子
+  - exec: pochiko.exe
+    port: 
+      - 37701
+      - 37702
+      - 37703
+  # - exec: tiger.exe
+  #   port: 
+  #     - 38101
+  #     - 38102
+  #     - 38103
